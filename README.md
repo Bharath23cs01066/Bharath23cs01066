@@ -8,7 +8,7 @@
 
 <img src="./assets/banner.svg" alt="Bharath Simha Reddy — SDE Intern at DentNav — IIT Bhubaneswar, Computer Science" width="100%">
 
-<img src="./assets/terminal.svg" alt="Terminal readout: bharath simha reddy, SDE intern at DentNav, sole engineer; interests in AI skepticism, data visualization and networks; shipping dentnav.com, open to SDE roles" width="100%">
+<img src="./assets/terminal.svg" alt="Terminal readout, About Bharath: AI skeptic, data-visualization enthusiast, drawn to every corner of computer science; curious how networks and computers reshape psychology and political consciousness; plays Halo Infinite ranked and Fortnite, reads sci-fi novels; always learning, open to SDE roles" width="100%">
 
 **SDE Intern at DentNav** — sole engineer across the stack. Next.js, FastAPI, PostgreSQL, live at [dentnav.com](https://dentnav.com). Computer Science at IIT Bhubaneswar, B.Tech '27. Open to SDE, backend and full-stack roles.
 
