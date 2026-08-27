@@ -19,7 +19,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## // ABOUT
+<h2><img src="./assets/hdr-about.svg" width="100%" alt="// About"></h2>
 
 I'm a passionate skeptic of Artificial Intelligence, Data Visualization enthusiast, Software Development, and other intriguing realms within Computer Science. I love trying to analyze how computers, social networks have affected and continue to affect human psychology and political consciousness.
 
@@ -31,7 +31,7 @@ I love learning new things and hope to contribute as much as I can in all aspect
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## // DEPLOYMENTS
+<h2><img src="./assets/hdr-deployments.svg" width="100%" alt="// Deployments"></h2>
 
 <table>
 <tr>
@@ -65,7 +65,7 @@ A platform connecting women across Odisha to legal, medical and protection servi
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## // SELECTED BUILDS
+<h2><img src="./assets/hdr-builds.svg" width="100%" alt="// Selected builds"></h2>
 
 <table>
 <tr>
@@ -108,27 +108,13 @@ A card game written in C against Raylib, with **three AI strategies** — random
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## // STACK
+<h2><img src="./assets/hdr-stack.svg" width="100%" alt="// Stack"></h2>
 
-<sub>LANGUAGES</sub>
-
-<img src="https://img.shields.io/badge/Python-0C0F16?style=flat-square&logo=python&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/C++-0C0F16?style=flat-square&logo=cplusplus&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/C-0C0F16?style=flat-square&logo=c&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/TypeScript-0C0F16?style=flat-square&logo=typescript&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/JavaScript-0C0F16?style=flat-square&logo=javascript&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/SQL-0C0F16?style=flat-square&logo=postgresql&logoColor=00E5FF&labelColor=0C0F16">
-
-<sub>FRAMEWORKS</sub>
-
-<img src="https://img.shields.io/badge/Next.js-0C0F16?style=flat-square&logo=nextdotjs&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/React-0C0F16?style=flat-square&logo=react&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/FastAPI-0C0F16?style=flat-square&logo=fastapi&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Flutter-0C0F16?style=flat-square&logo=flutter&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/TensorFlow-0C0F16?style=flat-square&logo=tensorflow&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/OpenCV-0C0F16?style=flat-square&logo=opencv&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Pandas-0C0F16?style=flat-square&logo=pandas&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/NumPy-0C0F16?style=flat-square&logo=numpy&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Streamlit-0C0F16?style=flat-square&logo=streamlit&logoColor=FF2E88&labelColor=0C0F16">
-
-<sub>DATA &amp; INFRASTRUCTURE</sub>
-
-<img src="https://img.shields.io/badge/PostgreSQL-0C0F16?style=flat-square&logo=postgresql&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Redis-0C0F16?style=flat-square&logo=redis&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/MongoDB-0C0F16?style=flat-square&logo=mongodb&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/SQLite-0C0F16?style=flat-square&logo=sqlite&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Docker-0C0F16?style=flat-square&logo=docker&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Snowflake-0C0F16?style=flat-square&logo=snowflake&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Vercel-0C0F16?style=flat-square&logo=vercel&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Railway-0C0F16?style=flat-square&logo=railway&logoColor=00E5FF&labelColor=0C0F16">
-
-<sub>TOOLING</sub>
-
-<img src="https://img.shields.io/badge/Git-0C0F16?style=flat-square&logo=git&logoColor=FFD500&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Linux-0C0F16?style=flat-square&logo=linux&logoColor=FFD500&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Figma-0C0F16?style=flat-square&logo=figma&logoColor=FFD500&labelColor=0C0F16"> <img src="https://img.shields.io/badge/VS_Code-0C0F16?style=flat-square&logo=visualstudiocode&logoColor=FFD500&labelColor=0C0F16">
+<img src="./assets/stack.svg" width="100%" alt="Technology stack: Python, C++, C, TypeScript, JavaScript, PostgreSQL, HTML5, CSS3, Next.js, React, FastAPI, Flutter, TensorFlow, OpenCV, Pandas, NumPy, Streamlit, Redis, MongoDB, SQLite, Docker, Snowflake, Vercel, Railway, Git, Linux, Figma">
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## // LEADERSHIP
+<h2><img src="./assets/hdr-leadership.svg" width="100%" alt="// Leadership"></h2>
 
 **Editor** · *Oracle*, the student-run journalism body of IIT Bhubaneswar<br>
 <sub>`APR 2026 — PRESENT`</sub><br>
@@ -144,7 +130,7 @@ Organised cycle-training workshops and led International Women's Day execution i
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## // SIGNAL
+<h2><img src="./assets/hdr-signal.svg" width="100%" alt="// Signal"></h2>
 
 | STANDING | EXAMINATION | YEAR |
 | :--- | :--- | ---: |
