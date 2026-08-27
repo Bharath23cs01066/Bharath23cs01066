@@ -1,6 +1,6 @@
 <!--
   Bharath23cs01066/README.md — revision 03
-  Ground #07080C · panel #0C0F16 · hairline #1C2230 · text #C9D3E0
+  Ground #0D1018 · panel #141926 · hairline #2A3348 · text #DCE4F0
   Cyan #00E5FF and magenta #FF2E88 lead · green #3FB950 status only
   Animation lives in assets/*.svg — GitHub renders animated SVG through <img>.
   Pending: confirm the LinkedIn and CodeChef URLs.
@@ -14,18 +14,20 @@
 
 <a href="https://dentnav.com"><img src="https://img.shields.io/badge/dentnav.com-0C0F16?style=flat-square&logo=vercel&logoColor=00E5FF&labelColor=0C0F16" alt="dentnav.com"></a>
 <a href="mailto:23cs01066@iitbbs.ac.in"><img src="https://img.shields.io/badge/email-0C0F16?style=flat-square&logo=maildotru&logoColor=FF2E88&labelColor=0C0F16" alt="Email"></a>
-<a href="https://www.linkedin.com/in/bharath-simha"><img src="https://img.shields.io/badge/linkedin-0C0F16?style=flat-square&logo=linkedin&logoColor=00E5FF&labelColor=0C0F16" alt="LinkedIn"></a>
-<a href="https://www.codechef.com/users/Cortanasimp"><img src="https://img.shields.io/badge/codechef-0C0F16?style=flat-square&logo=codechef&logoColor=FF2E88&labelColor=0C0F16" alt="CodeChef"></a>
+<a href="https://www.linkedin.com/in/bharath-vasamreddy-21a346321"><img src="https://img.shields.io/badge/linkedin-0C0F16?style=flat-square&logo=linkedin&logoColor=00E5FF&labelColor=0C0F16" alt="LinkedIn"></a>
+<a href="https://www.codechef.com/users/cortana_simp"><img src="https://img.shields.io/badge/codechef-0C0F16?style=flat-square&logo=codechef&logoColor=FF2E88&labelColor=0C0F16" alt="CodeChef"></a>
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
 ## // ABOUT
 
-I'm a passionate skeptic of artificial intelligence, a data visualization enthusiast, and drawn to software development and the other intriguing realms within computer science. I love trying to analyze how computers and social networks have affected — and continue to affect — human psychology and political consciousness.
+I'm a passionate skeptic of Artificial Intelligence, Data Visualization enthusiast, Software Development, and other intriguing realms within Computer Science. I love trying to analyze how computers, social networks have affected and continue to affect human psychology and political consciousness.
 
-Gaming is my favourite pastime, particularly grinding Halo Infinite ranked or getting one-tapped in Fortnite once a week. Love watching unnecessarily long game lore videos, and reading sci-fi novels that fill in the gaps between game titles.
+Gaming is my favorite pastime, particularly grinding Halo Infinite ranked or getting one-tapped in Fortnite once a week. Love watching unnecessarily long game lore videos and reading sci-fi novels that fill in the gaps between game titles.
 
-I love learning new things, and hope to contribute as much as I can in all aspects of college life.
+Some of the responsibilities I hold in college include: mentoring a team at Oracle, a student run journalism club, participating in collegiate level quizzes and MUNs as a core member of the women welfare committee IIT BBS.
+
+I love learning new things and hope to contribute as much as I can in all aspects of college life. Join me on my journey through time on this lonely blue rock we call home in the universe.
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
@@ -122,7 +124,7 @@ A card game written in C against Raylib, with **three AI strategies** — random
 
 <sub>TOOLING</sub>
 
-<img src="https://img.shields.io/badge/Git-0C0F16?style=flat-square&logo=git&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Linux-0C0F16?style=flat-square&logo=linux&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Figma-0C0F16?style=flat-square&logo=figma&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/VS_Code-0C0F16?style=flat-square&logo=visualstudiocode&logoColor=FF2E88&labelColor=0C0F16">
+<img src="https://img.shields.io/badge/Git-0C0F16?style=flat-square&logo=git&logoColor=FFD500&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Linux-0C0F16?style=flat-square&logo=linux&logoColor=FFD500&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Figma-0C0F16?style=flat-square&logo=figma&logoColor=FFD500&labelColor=0C0F16"> <img src="https://img.shields.io/badge/VS_Code-0C0F16?style=flat-square&logo=visualstudiocode&logoColor=FFD500&labelColor=0C0F16">
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
@@ -153,7 +155,5 @@ Organised cycle-training workshops and led International Women's Day execution i
 | 300 / 390 | BITSAT | 2023 |
 
 <img src="./assets/divider.svg" width="100%" alt="">
-
-> Join me on my journey through time on this lonely blue rock we call home in the universe.
 
 <sub>Reachable at **23cs01066@iitbbs.ac.in**</sub>
