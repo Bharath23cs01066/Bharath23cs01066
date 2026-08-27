@@ -1,5 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 8" width="1200" height="8" role="img" aria-label="">
-  <line x1="0" y1="4" x2="1200" y2="4" stroke="#1E242C" stroke-width="1"/>
-  <rect x="0" y="3" width="96" height="2" fill="#2DE2E6" opacity=".85"/>
-  <g fill="#2A323C"><rect x="112" y="1" width="1" height="6"/><rect x="122" y="1" width="1" height="6"/><rect x="132" y="1" width="1" height="6"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 10" width="1200" height="10" role="img" aria-label="">
+  <defs><linearGradient id="pl" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00E5FF" stop-opacity="0"/><stop offset="50%" stop-color="#00E5FF"/><stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+  </linearGradient></defs>
+  <line x1="0" y1="5" x2="1200" y2="5" stroke="#1C2230"/>
+  <rect x="0" y="4" width="104" height="2" fill="#FF2E88"/>
+  <rect x="108" y="4" width="26" height="2" fill="#00E5FF"/>
+  <g fill="#2B3446"><rect x="144" y="2" width="1" height="6"/><rect x="152" y="2" width="1" height="6"/><rect x="160" y="2" width="1" height="6"/></g>
+  <rect x="-180" y="3.5" width="180" height="3" fill="url(#pl)" opacity=".9">
+    <animate attributeName="x" values="-180;1200" dur="5.5s" repeatCount="indefinite"/>
+  </rect>
 </svg>

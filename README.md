@@ -1,24 +1,31 @@
 <!--
-  Bharath23cs01066/README.md
-  Palette  bg #0A0C10 · panel #0E1116 · line #1E242C · text #C9D1D9
-           cyan #2DE2E6 (primary) · pink #FF3D7F (secondary) · green #3FB950 (status)
-  Pending  confirm the LinkedIn and CodeChef URLs below.
+  Bharath23cs01066/README.md — revision 03
+  Ground #07080C · panel #0C0F16 · hairline #1C2230 · text #C9D3E0
+  Cyan #00E5FF and magenta #FF2E88 lead · green #3FB950 status only
+  Animation lives in assets/*.svg — GitHub renders animated SVG through <img>.
+  Pending: confirm the LinkedIn and CodeChef URLs.
 -->
 
 <img src="./assets/banner.svg" alt="Bharath Simha Reddy — SDE Intern at DentNav — IIT Bhubaneswar, Computer Science" width="100%">
 
-<a href="https://dentnav.com"><img src="https://img.shields.io/badge/dentnav.com-0E1116?style=flat-square&logo=vercel&logoColor=2DE2E6&labelColor=0E1116" alt="dentnav.com"></a>
-<a href="mailto:23cs01066@iitbbs.ac.in"><img src="https://img.shields.io/badge/email-0E1116?style=flat-square&logo=maildotru&logoColor=2DE2E6&labelColor=0E1116" alt="Email"></a>
-<a href="https://www.linkedin.com/in/bharath-simha"><img src="https://img.shields.io/badge/linkedin-0E1116?style=flat-square&logo=linkedin&logoColor=2DE2E6&labelColor=0E1116" alt="LinkedIn"></a>
-<a href="https://www.codechef.com/users/Cortanasimp"><img src="https://img.shields.io/badge/codechef-0E1116?style=flat-square&logo=codechef&logoColor=2DE2E6&labelColor=0E1116" alt="CodeChef"></a>
+<img src="./assets/terminal.svg" alt="Terminal readout: bharath simha reddy, SDE intern at DentNav, sole engineer; interests in AI skepticism, data visualization and networks; shipping dentnav.com, open to SDE roles" width="100%">
 
-```yaml
-role:        SDE Intern — DentNav, sole engineer across the stack
-base:        IIT Bhubaneswar / Computer Science / B.Tech '27
-shipped:     dentnav.com — production, versioned migrations, healthchecks
-works_in:    Next.js · FastAPI · PostgreSQL · Redis · Docker · Python · C
-open_to:     SDE, backend and full-stack roles
-```
+**SDE Intern at DentNav** — sole engineer across the stack. Next.js, FastAPI, PostgreSQL, live at [dentnav.com](https://dentnav.com). Computer Science at IIT Bhubaneswar, B.Tech '27. Open to SDE, backend and full-stack roles.
+
+<a href="https://dentnav.com"><img src="https://img.shields.io/badge/dentnav.com-0C0F16?style=flat-square&logo=vercel&logoColor=00E5FF&labelColor=0C0F16" alt="dentnav.com"></a>
+<a href="mailto:23cs01066@iitbbs.ac.in"><img src="https://img.shields.io/badge/email-0C0F16?style=flat-square&logo=maildotru&logoColor=FF2E88&labelColor=0C0F16" alt="Email"></a>
+<a href="https://www.linkedin.com/in/bharath-simha"><img src="https://img.shields.io/badge/linkedin-0C0F16?style=flat-square&logo=linkedin&logoColor=00E5FF&labelColor=0C0F16" alt="LinkedIn"></a>
+<a href="https://www.codechef.com/users/Cortanasimp"><img src="https://img.shields.io/badge/codechef-0C0F16?style=flat-square&logo=codechef&logoColor=FF2E88&labelColor=0C0F16" alt="CodeChef"></a>
+
+<img src="./assets/divider.svg" width="100%" alt="">
+
+## // ABOUT
+
+I'm a passionate skeptic of artificial intelligence, a data visualization enthusiast, and drawn to software development and the other intriguing realms within computer science. I love trying to analyze how computers and social networks have affected — and continue to affect — human psychology and political consciousness.
+
+Gaming is my favourite pastime, particularly grinding Halo Infinite ranked or getting one-tapped in Fortnite once a week. Love watching unnecessarily long game lore videos, and reading sci-fi novels that fill in the gaps between game titles.
+
+I love learning new things, and hope to contribute as much as I can in all aspects of college life.
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
@@ -103,30 +110,35 @@ A card game written in C against Raylib, with **three AI strategies** — random
 
 <sub>LANGUAGES</sub>
 
-<img src="https://img.shields.io/badge/Python-0E1116?style=flat-square&logo=python&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/C++-0E1116?style=flat-square&logo=cplusplus&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/C-0E1116?style=flat-square&logo=c&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/TypeScript-0E1116?style=flat-square&logo=typescript&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/JavaScript-0E1116?style=flat-square&logo=javascript&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/SQL-0E1116?style=flat-square&logo=postgresql&logoColor=2DE2E6&labelColor=0E1116">
+<img src="https://img.shields.io/badge/Python-0C0F16?style=flat-square&logo=python&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/C++-0C0F16?style=flat-square&logo=cplusplus&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/C-0C0F16?style=flat-square&logo=c&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/TypeScript-0C0F16?style=flat-square&logo=typescript&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/JavaScript-0C0F16?style=flat-square&logo=javascript&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/SQL-0C0F16?style=flat-square&logo=postgresql&logoColor=00E5FF&labelColor=0C0F16">
 
 <sub>FRAMEWORKS</sub>
 
-<img src="https://img.shields.io/badge/Next.js-0E1116?style=flat-square&logo=nextdotjs&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/React-0E1116?style=flat-square&logo=react&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/FastAPI-0E1116?style=flat-square&logo=fastapi&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/Flutter-0E1116?style=flat-square&logo=flutter&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/TensorFlow-0E1116?style=flat-square&logo=tensorflow&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/OpenCV-0E1116?style=flat-square&logo=opencv&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/Pandas-0E1116?style=flat-square&logo=pandas&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/NumPy-0E1116?style=flat-square&logo=numpy&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/Streamlit-0E1116?style=flat-square&logo=streamlit&logoColor=2DE2E6&labelColor=0E1116">
+<img src="https://img.shields.io/badge/Next.js-0C0F16?style=flat-square&logo=nextdotjs&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/React-0C0F16?style=flat-square&logo=react&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/FastAPI-0C0F16?style=flat-square&logo=fastapi&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Flutter-0C0F16?style=flat-square&logo=flutter&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/TensorFlow-0C0F16?style=flat-square&logo=tensorflow&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/OpenCV-0C0F16?style=flat-square&logo=opencv&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Pandas-0C0F16?style=flat-square&logo=pandas&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/NumPy-0C0F16?style=flat-square&logo=numpy&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Streamlit-0C0F16?style=flat-square&logo=streamlit&logoColor=FF2E88&labelColor=0C0F16">
 
 <sub>DATA &amp; INFRASTRUCTURE</sub>
 
-<img src="https://img.shields.io/badge/PostgreSQL-0E1116?style=flat-square&logo=postgresql&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/Redis-0E1116?style=flat-square&logo=redis&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/MongoDB-0E1116?style=flat-square&logo=mongodb&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/SQLite-0E1116?style=flat-square&logo=sqlite&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/Docker-0E1116?style=flat-square&logo=docker&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/Snowflake-0E1116?style=flat-square&logo=snowflake&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/Vercel-0E1116?style=flat-square&logo=vercel&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/Railway-0E1116?style=flat-square&logo=railway&logoColor=2DE2E6&labelColor=0E1116">
+<img src="https://img.shields.io/badge/PostgreSQL-0C0F16?style=flat-square&logo=postgresql&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Redis-0C0F16?style=flat-square&logo=redis&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/MongoDB-0C0F16?style=flat-square&logo=mongodb&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/SQLite-0C0F16?style=flat-square&logo=sqlite&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Docker-0C0F16?style=flat-square&logo=docker&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Snowflake-0C0F16?style=flat-square&logo=snowflake&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Vercel-0C0F16?style=flat-square&logo=vercel&logoColor=00E5FF&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Railway-0C0F16?style=flat-square&logo=railway&logoColor=00E5FF&labelColor=0C0F16">
 
 <sub>TOOLING</sub>
 
-<img src="https://img.shields.io/badge/Git-0E1116?style=flat-square&logo=git&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/Linux-0E1116?style=flat-square&logo=linux&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/Figma-0E1116?style=flat-square&logo=figma&logoColor=2DE2E6&labelColor=0E1116"> <img src="https://img.shields.io/badge/VS_Code-0E1116?style=flat-square&logo=visualstudiocode&logoColor=2DE2E6&labelColor=0E1116">
+<img src="https://img.shields.io/badge/Git-0C0F16?style=flat-square&logo=git&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Linux-0C0F16?style=flat-square&logo=linux&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/Figma-0C0F16?style=flat-square&logo=figma&logoColor=FF2E88&labelColor=0C0F16"> <img src="https://img.shields.io/badge/VS_Code-0C0F16?style=flat-square&logo=visualstudiocode&logoColor=FF2E88&labelColor=0C0F16">
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## // TELEMETRY
+## // LEADERSHIP
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Bharath23cs01066&show_icons=true&include_all_commits=true&rank_icon=github&hide_title=true&bg_color=0E1116&text_color=C9D1D9&icon_color=2DE2E6&border_color=1E242C&border_radius=0&ring_color=2DE2E6" alt="GitHub statistics">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath23cs01066&layout=compact&langs_count=6&hide_title=true&bg_color=0E1116&text_color=C9D1D9&border_color=1E242C&border_radius=0" alt="Most used languages">
+**Editor** · *Oracle*, the student-run journalism body of IIT Bhubaneswar<br>
+<sub>`APR 2026 — PRESENT`</sub><br>
+Mentor a reporting team, and write and edit investigative and opinion pieces on institute administration, policy and student affairs.
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bharath23cs01066&hide_title=true&bg_color=0E1116&color=C9D1D9&line=2DE2E6&point=FF3D7F&area=true&area_color=2DE2E6&border_color=1E242C&radius=0" alt="Contribution activity, last 31 days">
+**Core Team** · *Pravaah*, the annual fest of IIT Bhubaneswar<br>
+<sub>`JAN 2025 — APR 2025`</sub><br>
+Ran execution across verticals and led planning for large-scale events including the Startup Expo.
 
-<img width="100%" src="https://raw.githubusercontent.com/Bharath23cs01066/Bharath23cs01066/output/snake.svg" alt="Contribution grid consumed by a snake">
+**Assistant Coordinator** · *Women Welfare Committee*, IIT Bhubaneswar<br>
+<sub>`MAR 2024 — DEC 2024`</sub><br>
+Organised cycle-training workshops and led International Women's Day execution in 2024 and 2025. Represent the committee in collegiate quizzes and Model UN.
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
@@ -140,17 +152,8 @@ A card game written in C against Raylib, with **three AI strategies** — random
 | Qualified, 300 nationwide | Indian National Junior Science Olympiad | 2020 |
 | 300 / 390 | BITSAT | 2023 |
 
-## // ELSEWHERE
-
-**Editor** · *Oracle*, the journalism body of IIT Bhubaneswar <sub>`APR 2026 — PRESENT`</sub><br>
-Investigative and opinion pieces on institute administration, policy and student affairs.
-
-**Core Team** · *Pravaah*, the annual fest of IIT Bhubaneswar <sub>`JAN 2025 — APR 2025`</sub><br>
-Execution across verticals, and planning for the Startup Expo.
-
-**Assistant Coordinator** · *Women Welfare Committee*, IIT Bhubaneswar <sub>`MAR 2024 — DEC 2024`</sub><br>
-Cycle-training workshops and International Women's Day execution, 2024 and 2025.
-
 <img src="./assets/divider.svg" width="100%" alt="">
+
+> Join me on my journey through time on this lonely blue rock we call home in the universe.
 
 <sub>Reachable at **23cs01066@iitbbs.ac.in**</sub>
